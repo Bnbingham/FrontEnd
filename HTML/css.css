@@ -1,0 +1,15 @@
+body {
+  max-width: 400;
+}
+.container {
+  margin-top: 0;
+  background-color: whitesmoke;
+}
+#formThing {
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-radius: 25px;
+}
+hr {
+  width: 50%;
+}
